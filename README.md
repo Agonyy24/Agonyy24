@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Jacob 👋 
 
-<!--
-**Agonyy24/Agonyy24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **"Turning p-values into profit."**
+> *| Aspiring Quantitative Analyst*
+> *| Financial Markets Passionate*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```python
+while market_is_open:
+    try:
+        data  = fetch_market_data()
+        alpha = calculate_edge(data)
+        
+        if is_significant(alpha, p_threshold=0.01):
+            optimize_portfolio(objective="MaxSharpe")
+            execute_trade()
+            
+    except MarketVolatility:
+        stay_calm_and_recalibrate()
