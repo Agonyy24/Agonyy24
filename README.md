@@ -1,6 +1,6 @@
 # Hi there, I'm Jacob 👋 
 
-> **"Turning p-values into profit."**
+> **"Turning p-values into profit"**
 > *| Aspiring Quantitative Analyst*
 > *| Financial Markets Passionate*
 
