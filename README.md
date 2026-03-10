@@ -17,4 +17,4 @@ while market_is_open:
             execute_trade()
             
     except MarketVolatility:
-        stay_calm_and_recalibrate()
+        buy_the_dip_and_sip_coffee()
